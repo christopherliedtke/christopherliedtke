@@ -29,6 +29,7 @@ Over time I worked with a bunch of different tools &ndash; some more coding rela
 ![](https://img.shields.io/badge/Tool-Google%20Analytics-informational?style=flat&logo=google-analytics&logoColor=white&color=D77A65&labelColor=465573)
 ![](https://img.shields.io/badge/Tool-Google%20Ads-informational?style=flat&logo=google-ads&logoColor=white&color=D77A65&labelColor=465573)
 ![](https://img.shields.io/badge/Tool-Google%20Search%20Console-informational?style=flat&logo=google-search-console&logoColor=white&color=D77A65&labelColor=465573)
+![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white&color=D77A65&labelColor=465573)
 
 ![](https://img.shields.io/badge/DB-mongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=D77A65&labelColor=465573)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=D77A65&labelColor=465573)
@@ -42,8 +43,13 @@ Over time I worked with a bunch of different tools &ndash; some more coding rela
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherliedtke&show_icons=true&theme=nord&count_private=true&hide=contribs,prs,issues&title_color=465573&text_color=465573&icon_color=D77A65&bg_color=FCFBFA&hide_border=true)](https://github.com/christopherliedtke/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherliedtke&show_icons=true&theme=nord&count_private=true&hide=contribs,prs&title_color=465573&text_color=465573&icon_color=D77A65&bg_color=FCFBFA&hide_border=true)](https://github.com/christopherliedtke/github-readme-stats)
+<div style="display:flex">
+    <a href="https://github.com/christopherliedtke/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=christopherliedtke&show_icons=true&theme=nord&count_private=true&hide=contribs,prs,issues&title_color=465573&text_color=465573&icon_color=D77A65&bg_color=FCFBFA&hide_border=true" alt="Christopher's GitHub stats" /></a>
+    <a href="https://github.com/christopherliedtke/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherliedtke&show_icons=true&theme=nord&count_private=true&hide=contribs,prs&title_color=465573&text_color=465573&icon_color=D77A65&bg_color=FCFBFA&hide_border=true" alt="Christopher's GitHub stats" /></a>
+</div>
+
+<!-- [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherliedtke&show_icons=true&theme=nord&count_private=true&hide=contribs,prs,issues&title_color=465573&text_color=465573&icon_color=D77A65&bg_color=FCFBFA&hide_border=true)](https://github.com/christopherliedtke/github-readme-stats)
+[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherliedtke&show_icons=true&theme=nord&count_private=true&hide=contribs,prs&title_color=465573&text_color=465573&icon_color=D77A65&bg_color=FCFBFA&hide_border=true)](https://github.com/christopherliedtke/github-readme-stats) -->
 
 <!--
 **christopherliedtke/christopherliedtke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
