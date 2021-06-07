@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/img/github_header_cl_1500x500.png 'Header')](https://christopherliedtke.github.io/)
+[![Christopher Liedtke Header](https://raw.githubusercontent.com/christopherliedtke/christopherliedtke/main/img/github_header_cl_1500x500.png 'Header')](https://christopherliedtke.github.io/)
 
 ### Hi there 👋
 
