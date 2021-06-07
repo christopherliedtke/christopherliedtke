@@ -2,7 +2,9 @@
 
 # Hej!
 
-Hi, I am Chris - passionate web developer. I love to create products out of nothing. Programming gives me the unique opportunity to create a digital product that is not only beautiful in the eye of the end-user (front-end) but also provides all the functionality for a higher-level system (back-end). As a passionate web developer I am always on the lookout for the next challenging project &ndash; no matter if it is to build a new product and realize entrepreneurial ideas myself or supporting clients and partners with their own business.
+Hi, I am Chris - passionate web developer. I love to create products out of nothing. Programming gives me the unique opportunity to create a digital product that is not only beautiful in the eye of the end-user (front-end) but also provides all the functionality for a higher-level system (back-end).
+
+As a passionate web developer I am always on the lookout for the next challenging project &ndash; no matter if it is to build a new product and realize entrepreneurial ideas myself or supporting clients and partners with their own business. Through my experience with SEO, Advertisement, Social Media and Design I am able to go far beyond just coding a web application.
 
 ## ⚒️ Technologies & Tools
 
